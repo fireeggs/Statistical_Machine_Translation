@@ -13,6 +13,7 @@
 %                                                               %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 function LM = lm_train(dataDir, language, fn_LM)
 %
 %  lm_train
